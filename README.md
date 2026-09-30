@@ -11,7 +11,7 @@
 
 🌐 **[panzup.com](https://panzup.com)** — digital game-key marketplace, live in production
 
-TypeScript · React · Vite · Tailwind CSS · Supabase (Postgres · Auth · Realtime) · Cloudflare
+TypeScript · React · Vite · Tailwind CSS
 
 ## Toolbox
 
